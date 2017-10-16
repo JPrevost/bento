@@ -1,3 +1,9 @@
 tmp
 log
 .git
+.env
+db/*.sqlite3
+coverage
+.yardoc
+.byebug_history
+faraday.log
